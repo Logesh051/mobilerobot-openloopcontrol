@@ -4,10 +4,12 @@
 To develop a python control code to move the mobilerobot along the predefined path.
 
 ## Equipments Required:
+```
 1. RoboMaster EP core
 2. Python 3.7
-
+```
 ## Procedure
+```
 Step1:
 
 Use from robomaster import robot.
@@ -27,6 +29,7 @@ Give time.sleep() for a break.
 Step5:
 
 Give ep_chassis.drive_speed to have a circular movement.
+```
 ## Program
 ```
 Developed by : Logesh.N.A
@@ -94,6 +97,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 ![WhatsApp Image 2023-12-29 at 21 58 48_afbab172](https://github.com/Logesh051/mobilerobot-openloopcontrol/assets/144979188/d2a39496-d980-4242-aa71-e97ae7e399f2)
+
+![WhatsApp Image 2023-12-29 at 22 04 00_50eb119a](https://github.com/Logesh051/mobilerobot-openloopcontrol/assets/144979188/90e71db6-9dee-4940-a287-6654e4cbcd08)
 
 
 ## MobileRobot Movement Video:
